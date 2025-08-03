@@ -142,9 +142,10 @@ The included Jupyter notebook provides insights such as:
 | Saturday 17 August 2024 | Monaco | Saint-Étienne | 1 | 0 | 1-0 | 28 |
 | Sunday 18 August 2024 | Toulouse | Nantes | 0 | 0 | 0-0 | None |
 
-## Visualizing the Results
+## Visualizing Game Insights
 
-<img width="616" height="322" alt="image" src="https://github.com/user-attachments/assets/f5d24fb4-923e-493e-88f8-df5ae669cef2" />
+<img width="622" height="331" alt="image" src="https://github.com/user-attachments/assets/da15234e-9573-4f77-9762-ef206b01c966" />
+
 
 
 ## 🔧 Configuration Options
